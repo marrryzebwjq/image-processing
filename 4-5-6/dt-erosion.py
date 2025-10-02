@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-## DT et érosion
-
+## Exo DT et érosion
+## Marie POINT - M2 VICO
 
 """
 Question :

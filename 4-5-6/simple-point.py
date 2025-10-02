@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-## Simple point
-
+## Exo simple point
+## Marie POINT - M2 VICO
 
 #Pour chaque point de l'image X, on va observer la matrice de taille 3x3 qui l'entoure (les 8 voisins).
 
